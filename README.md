@@ -1,6 +1,6 @@
 **👋 Hi there, I'm Raj**
 
-🚀 **DevOps Engineer |pursing-BE(CE)| Ex-Diploma (IT) | AWS | Automation Enthusiast**
+🚀 **DevOps Engineer | Pursuing-BE(CE) | Ex-Diploma (IT) | AWS | Automation Enthusiast**
 
 I'm a passionate DevOps practitioner who believes in automating everything. From manual processes to production-ready pipelines, I build infrastructure that works. Currently leveling up my skills and looking for opportunities to contribute to real-world projects.
 
