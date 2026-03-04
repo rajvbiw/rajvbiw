@@ -12,7 +12,7 @@ I'm a passionate DevOps practitioner who believes in automating everything. From
 - 🌱 I’m currently learning **Advanced Kubernetes**,**AWS Services** and **Jenkins**
 - 👯 I’m looking to collaborate on **DevOps automation projects** and **Python scripting**
 - 💬 Ask me about **Linux, Docker, Terraform, AWS, or breaking things in staging**
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/raj-birari) | [Email](rajbirari.work@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/raj-birari/)**
 
 ---
 
