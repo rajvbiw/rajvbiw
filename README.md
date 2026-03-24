@@ -40,17 +40,17 @@ I'm a passionate DevOps practitioner who believes in automating everything. From
 Here are some projects that showcase my DevOps journey:
 
 ### AWS Infrastructure Automation | Terraform, AWS ###
-• Provisioned and managed AWS infrastructure (EC2, S3, IAM) using Terraform, leveraging
+- Provisioned and managed AWS infrastructure (EC2, S3, IAM) using Terraform, leveraging
 Infrastructure as Code (IaC) to automate deployments, enhance scalability, and build reusable,
 production-ready cloud infrastructure.
 
 ### Kubernetes-Based To-Do Application | Docker, Kubernetes###
-• Deployed a containerized To-Do application using Docker and Kubernetes, implementing YAML-based
+- Deployed a containerized To-Do application using Docker and Kubernetes, implementing YAML-based
 Deployments and Services to ensure scalability, high availability, and automated self-healing in a
 CI/CD-driven DevOps environment.
 
 ### Hospital Management System | Python, MySQL ###
-• Deployed and managed a containerized Hospital Management System using Docker and Kubernetes,
+- Deployed and managed a containerized Hospital Management System using Docker and Kubernetes,
 implementing CI/CD pipelines, improving scalability, high availability, and infrastructure automation
 in a cloud-based DevOps environment.
 
