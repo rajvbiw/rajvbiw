@@ -39,21 +39,39 @@ I'm a passionate DevOps practitioner who believes in automating everything. From
 
 Here are some projects that showcase my DevOps journey:
 
+### AWS Infrastructure Automation | Terraform, AWS ###
+• Provisioned and managed AWS infrastructure (EC2, S3, IAM) using Terraform, leveraging
+Infrastructure as Code (IaC) to automate deployments, enhance scalability, and build reusable,
+production-ready cloud infrastructure.
+
+### Kubernetes-Based To-Do Application | Docker, Kubernetes###
+• Deployed a containerized To-Do application using Docker and Kubernetes, implementing YAML-based
+Deployments and Services to ensure scalability, high availability, and automated self-healing in a
+CI/CD-driven DevOps environment.
+
+### Hospital Management System | Python, MySQL ###
+• Deployed and managed a containerized Hospital Management System using Docker and Kubernetes,
+implementing CI/CD pipelines, improving scalability, high availability, and infrastructure automation
+in a cloud-based DevOps environment.
+
 ### Dockerized Notes Application | Python, Docker Ecosystem ###
 - Developed and deployed a production-style Django application using Docker, Docker Compose, Gunicorn, and
 NGINX with MySQL database persistence via volumes.
 - Implemented service isolation, container networking, reverse proxy configuration, and environment-based setup to
 demonstrate real-world DevOps deployment practices.
+
 ### Dockerized Two-Tier Web Application | Flask, MySQL, Docker ###
 - Designed a two-tier containerized architecture with Flask (application layer) and MySQL (database layer) using Docker
 Compose for orchestration.
 - Built REST-style message storage APIs with persistent database storage and applied secure environment-based
 configuration and networking best practices.
+
 ### Production-Ready Simple Web Server | Python, Docker ###
 - Built a custom Python-based HTTP server supporting REST-style routing and multiple content formats (JSON, XML,
 CSV, HTML) with structured logging and health monitoring.
 - Containerized the application with Docker, implementing health checks, graceful shutdown handling, security
 headers, and production-ready configuration.
+
 ### Jenkins Remoting via Message Bus | Docker, Jenkins, Java ###
 - Developed a distributed CI/CD prototype inspired by Jenkins using Java and RabbitMQ to enable asynchronous
 controller–agent communication.
