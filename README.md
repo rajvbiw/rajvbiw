@@ -73,41 +73,51 @@ Zapier-like workflow automation platform using microservices and Kubernetes.
 **Tech:** Docker • Kubernetes • Jenkins • GitHub Actions
 
 ---
+## ☁️ AWS Infrastructure Automation
 
-### AWS Infrastructure Automation | Terraform, AWS ###
-- Provisioned and managed AWS infrastructure (EC2, S3, IAM) using Terraform, leveraging
-Infrastructure as Code (IaC) to automate deployments, enhance scalability, and build reusable,
-production-ready cloud infrastructure.
+Provisioned and managed AWS infrastructure using **Terraform**, automating the deployment of EC2, S3, IAM, and networking resources through reusable Infrastructure as Code (IaC) modules.
 
-### Kubernetes-Based To-Do Application | Docker, Kubernetes###
-- Deployed a containerized To-Do application using Docker and Kubernetes, implementing YAML-based
-Deployments and Services to ensure scalability, high availability, and automated self-healing in a
-CI/CD-driven DevOps environment.
+**Tech:** Terraform • AWS • EC2 • S3 • IAM • Infrastructure as Code
 
-### Dockerized Notes Application | Python, Docker Ecosystem ###
-- Developed and deployed a production-style Django application using Docker, Docker Compose, Gunicorn, and
-NGINX with MySQL database persistence via volumes.
-- Implemented service isolation, container networking, reverse proxy configuration, and environment-based setup to
-demonstrate real-world DevOps deployment practices.
+---
 
-### Dockerized Two-Tier Web Application | Flask, MySQL, Docker ###
-- Designed a two-tier containerized architecture with Flask (application layer) and MySQL (database layer) using Docker
-Compose for orchestration.
-- Built REST-style message storage APIs with persistent database storage and applied secure environment-based
-configuration and networking best practices.
+## ☸️ Kubernetes-Based To-Do Application
 
-### Production-Ready Simple Web Server | Python, Docker ###
-- Built a custom Python-based HTTP server supporting REST-style routing and multiple content formats (JSON, XML,
-CSV, HTML) with structured logging and health monitoring.
-- Containerized the application with Docker, implementing health checks, graceful shutdown handling, security
-headers, and production-ready configuration.
+Deployed a containerized To-Do application on Kubernetes using Docker, Deployments, Services, and ConfigMaps to demonstrate scalable, highly available, and self-healing application deployments.
 
-### Jenkins Remoting via Message Bus | Docker, Jenkins, Java ###
-- Developed a distributed CI/CD prototype inspired by Jenkins using Java and RabbitMQ to enable asynchronous
-controller–agent communication.
-- Designed a scalable multi-module Maven architecture with Dockerized infrastructure to simulate fault-tolerant,
-message-driven distributed build execution.
+**Tech:** Docker • Kubernetes • YAML • Services • Deployments
 
+---
+
+## 📝 Dockerized Notes Application
+
+Developed and deployed a production-style Django application using Docker, Docker Compose, Gunicorn, NGINX, and MySQL with persistent storage, reverse proxy, and container networking.
+
+**Tech:** Django • Docker • Docker Compose • NGINX • Gunicorn • MySQL
+
+---
+
+## 🏗 Dockerized Two-Tier Web Application
+
+Built a two-tier web application using Flask and MySQL with Docker Compose, implementing REST APIs, persistent database storage, secure networking, and environment-based configuration.
+
+**Tech:** Flask • MySQL • Docker • Docker Compose
+
+---
+
+## 🌐 Production-Ready Simple Web Server
+
+Created a custom Python HTTP server supporting REST-style routing, JSON/XML/CSV/HTML responses, structured logging, Docker health checks, graceful shutdown, and production-ready configuration.
+
+**Tech:** Python • Docker • REST API • Logging • Health Checks
+
+---
+
+## ⚡ Jenkins Remoting via Message Bus
+
+Designed a distributed CI/CD prototype inspired by Jenkins Remoting using Java and RabbitMQ for asynchronous controller-agent communication with a Dockerized, fault-tolerant build infrastructure.
+
+**Tech:** Java • Jenkins • RabbitMQ • Docker • Maven
 
 
 
