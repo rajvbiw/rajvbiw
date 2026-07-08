@@ -38,162 +38,41 @@ I'm a passionate DevOps practitioner who believes in automating everything. From
 ### 📌 Pinned Projects ###
 
 Here are some projects that showcase my DevOps journey:
-# AWS Free Tier Cost & Usage Tracker (FinOps Monitoring)
 
-A production-oriented FinOps monitoring solution that automatically tracks AWS Free Tier usage, estimated costs, and idle resources before unexpected billing occurs.
-## Tech Stack
-- Python
-- AWS Cost Explorer API
-- Boto3
-- SQLite
-- Pandas
-- Docker
-- Docker Compose
-- Grafana
-## Features
-- Tracks AWS Free Tier usage automatically
-- Detects idle AWS resources (EBS, EC2, CloudWatch Logs)
-- Daily cost collection using Cost Explorer API
-- Dockerized deployment
-- Grafana dashboard with usage trends
-- Weekly reports and CSV export
-- Automated alerts for Free Tier overages
-## Skills Demonstrated
-FinOps • AWS • Docker • Grafana • Automation • Cost Optimization
+## 🚀 AWS Free Tier Cost & Usage Tracker
+Production-grade FinOps dashboard using AWS Cost Explorer API, Docker, SQLite and Grafana.
 
-# Multi-Tenant School ERP Infrastructure
-Production-grade Kubernetes infrastructure deployed on AWS EKS with Terraform, GitHub Actions CI/CD, monitoring, and real-world production incident resolution.
-## Tech Stack
-- Terraform
-- AWS EKS
-- Kubernetes
-- Docker
-- GitHub Actions
-- Prometheus
-- Grafana
-- Nginx
-## Features
-- Infrastructure provisioning using Terraform
-- GitHub Actions CI/CD
-- Kubernetes deployment with rolling updates
-- Prometheus & Grafana monitoring
-- Automated deployments
-- Production-grade networking
-- Blameless postmortem documentation
-## Production Issues Solved
-- Pod IP exhaustion
-- RDS connection timeout
-- Prometheus RBAC issue
-- Nginx rate limiting configuration
-## Skills Demonstrated
-Kubernetes • Terraform • AWS • Monitoring • Incident Response • CI/CD
+**Tech:** Python • AWS • Docker • Grafana
 
-# Hospital Patient Management System
-A production-ready cloud-native application deployed on AWS Kubernetes with automated CI/CD, monitoring, and self-healing deployment mechanisms.
-## Tech Stack
-- AWS EKS
-- Terraform
-- Kubernetes
-- GitHub Actions
-- Docker
-- Prometheus
-- Grafana
-- Node.js
-## Features
-- Kubernetes deployment
-- Infrastructure as Code
-- Automated GitHub Actions pipeline
-- Self-healing database initialization
-- Prometheus monitoring
-- Grafana dashboards
-- Production-ready architecture
-## Production Issues Solved
-- Kubernetes rollout deadlock
-- Node capacity exhaustion
-- Empty RDS after deployment
-## Skills Demonstrated
-AWS • Kubernetes • Terraform • DevOps • Monitoring • CI/CD
+---
 
-# CircuitOps – AI Infrastructure on Kubernetes
-Production-grade AI platform deployed on AWS EKS with Kubernetes autoscaling, Infrastructure as Code, CI/CD, and complete monitoring stack.
-## Tech Stack
-- AWS
-- Terraform
-- Kubernetes
-- Docker
-- GitHub Actions
-- Prometheus
-- Grafana
-## Features
-- AI application deployment
-- Kubernetes Horizontal Pod Autoscaler
-- GitHub Actions CI/CD
-- Terraform infrastructure
-- Prometheus monitoring
-- Grafana dashboards
-- Automated deployments
-## Skills Demonstrated
-AI Infrastructure • Kubernetes • Terraform • AWS • DevOps • Monitoring
+## ☸️ Multi-Tenant School ERP Infrastructure
+Production-ready Kubernetes infrastructure deployed on AWS EKS using Terraform and GitHub Actions.
 
-# Workflow Automation Engine (Zapier Clone)
-A scalable workflow automation platform built using microservices, Docker, Kubernetes, Jenkins, and GitHub Actions.
-## Tech Stack
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- Bash
-- Microservices
-## Features
-- Workflow automation
-- Multi-stage Docker builds
-- Kubernetes deployment
-- ConfigMaps & Secrets
-- Jenkins CI/CD
-- GitHub Actions pipeline
-- Horizontal scalability
-## Skills Demonstrated
-Automation • Kubernetes • Docker • Jenkins • GitHub Actions
+**Tech:** Kubernetes • Terraform • AWS • Prometheus • Grafana
 
-# Distributed CI/CD Pipeline using RabbitMQ
-A distributed CI/CD architecture using RabbitMQ to improve scalability, reduce build bottlenecks, and eliminate single points of failure.
-## Tech Stack
-- Jenkins
-- RabbitMQ
-- Docker
-- Python
-- Bash
-- Linux
-## Features
-- Distributed build execution
-- Message queue architecture
-- Fault tolerance
-- Parallel job execution
-- Automated pipeline
-- Linux automation scripts
-## Skills Demonstrated
-Distributed Systems • RabbitMQ • Jenkins • DevOps • Linux
+---
 
-# Cloud-Native Restaurant Platform
-Production-ready restaurant management platform deployed on AWS EKS with Terraform, Kubernetes, Docker, Prometheus, and Grafana.
-## Tech Stack
-- AWS EKS
-- Terraform
-- Docker
-- Kubernetes
-- Prometheus
-- Grafana
-- ECR
-## Features
-- Infrastructure provisioning
-- Kubernetes deployment
-- Docker containerization
-- GitHub-based deployment workflow
-- Monitoring dashboards
-- Production networking
-- Cloud-native architecture
-## Skills Demonstrated
-AWS • Kubernetes • Terraform • Docker • Monitoring • Cloud Infrastructure
+## 🏥 Hospital Patient Management System
+Cloud-native Kubernetes deployment with self-healing infrastructure and automated CI/CD.
+
+**Tech:** AWS • Kubernetes • Terraform • GitHub Actions
+
+---
+
+## 🤖 CircuitOps AI Platform
+AI application deployed on Kubernetes with HPA autoscaling and production monitoring.
+
+**Tech:** Kubernetes • Terraform • AWS • Prometheus
+
+---
+
+## ⚙️ Workflow Automation Engine
+Zapier-like workflow automation platform using microservices and Kubernetes.
+
+**Tech:** Docker • Kubernetes • Jenkins • GitHub Actions
+
+---
 
 ### AWS Infrastructure Automation | Terraform, AWS ###
 - Provisioned and managed AWS infrastructure (EC2, S3, IAM) using Terraform, leveraging
